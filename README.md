@@ -1,5 +1,5 @@
 # LncGx
-Shiny web application for exploring the response of the human non-coding genome to glucocorticoids (GCs). The data and figures for this application have yet to be published so only the code is included in this repository.
+Web application for exploring the response of the human non-coding genome to glucocorticoids (GCs). The data and figures for this application have yet to be published so only the code is included in this repository.
 
 # Data collection
 Total RNA-seq was performed in 9 primary human cell types (B cells, CD4+ T cells, Endothelial cells, Fibroblasts, Monocytes, Myoblasts, Neutrophils, Osteoblasts, Preadipocytes) obtained from 4 unrelated healthy volunteers. Cells were treated in vitro with the GC methylprednisolone, or with vehicle, and sampled 2 and 6 hours after treatment.
